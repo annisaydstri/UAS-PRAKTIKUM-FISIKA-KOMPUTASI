@@ -1,1 +1,1 @@
-# UAS-PRAKTIKUM-FISIKA-KOMPUTASI
+# Fisika Komputasi
